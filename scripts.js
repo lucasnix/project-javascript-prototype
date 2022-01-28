@@ -49,7 +49,17 @@ console.log(corSite);
 resetaCor("verde","claro");
 console.log(corSite);
 */
-function dizerNome(){
+//realiza uma tarefa, mas nao retorna nada
+/*function dizerNome(){
     console.log('eduardo')
 }
 dizerNome();
+// funcao faz um calculo ou operacao e retorna algo
+function multiplicarPorDois(valor){
+    return valor* 2;
+}
+//console.log(multiplicarPorDois(1000));
+
+let resultado = multiplicarPorDois(5);
+
+console.log(resultado);*/
